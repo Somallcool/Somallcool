@@ -2,19 +2,21 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Somallcool)](https://github.com/anuraghazra/github-readme-stats)
 
+# 📜 김찬우(ChanWoo Kim) 포트폴리오
+> 김찬우(ChanWoo Kim) - Somallcool 포트폴리오
 
+# 👋 Intro
+> 안녕하세요. **어느 상황에도 배움을 얻는 투명한** 김찬우입니다.
+> 프로젝트에 
 
-<!--
-**Somallcool/Somallcool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🤓 Project
+## 1. 
 
-Here are some ideas to get you started:
+## 2. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 3. 
+
+# ☎️ Contact
+- 이메일:
+- 블로그:
+- 깃허브: 
