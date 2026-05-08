@@ -49,6 +49,7 @@
 > **Servlet Filter**와 **Session** 기반 인증 체계를 구축하여 비인가 사용자의 접근을 차단하고 보안성을 강화했습니다.
 > MVC 아키텍처에 따라 설계하여 비즈니스 로직과 뷰의 역할을 엄격히 분리했습니다.
 - **Link**: https://github.com/Somallcool/PRG
+- **AWS**: http://15.164.169.219:8083/main
 
 ### 3️⃣ Today's Work(오늘의 할 일)
 - **Description**:
