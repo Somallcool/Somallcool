@@ -42,9 +42,12 @@
 > "**SwingS**"는 야구라는 주제 안에서 점수를 얻고 승리를 위하는 행동(Swing) 과 각 구단의 팬"들", 스윙을 하여 승리를 얻는 선수 "들" 에서 복수형인 "S"를 접목하여 "승리를 향하는 사람들"에게 최고의 장비를 제공한다는 의미를 담았습니다.
 - **Link**: https://github.com/Somallcool/team
 
-### 2️⃣ PRG(Post Redirect Get)
+### 2️⃣ PRG(Post Redirect Get) study
 - **Description**:
-> **Java Servlet과 Jsp**를 활용하여 스터디 목적으로 만든 **백엔드 중심의 CRUD** 웹입니다.
+> **Java Servlet과 JSP, html**을 활용하여 웹 애플리케이션의 핵심 동작 원리를 구현한 프로젝트입니다.
+> **PRG 패턴**을 도입하여 브라우저 새로고침 시 발생하는 데이터 중복 등록 이슈를 기술적으로 해결했습니다.
+> **Servlet Filter**와 **Session** 기반 인증 체계를 구축하여 비인가 사용자의 접근을 차단하고 보안성을 강화했습니다.
+> MVC 아키텍처에 따라 설계하여 비즈니스 로직과 뷰의 역할을 엄격히 분리했습니다.
 - **Link**: https://github.com/Somallcool/PRG
 
 ### 3️⃣ Today's Work(오늘의 할 일)
