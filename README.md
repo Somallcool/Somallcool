@@ -21,6 +21,9 @@
 
 # 🛠 Tech Stack
 
+### ☁️ Infrastructure & Deployment
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+
 ### 📱 Environment
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
@@ -31,7 +34,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Ajax-D0104C?style=for-the-badge&logo=google-cloud&logoColor=white">
 
 ### 💾 DB
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 <br>
 
@@ -55,7 +58,7 @@
 
 ### 3️⃣ Today's Work(오늘의 할 일)
 - **Description**:
-> 이 프로젝트는 **Java Servlet과 Oracle DB**를 기반으로 구축된 **오늘의 할 일을 체크**하는 할 일 관리 API 서버입니다. **RESTful** 설계 원칙을 준수하며, **리액트** 기반 프론트엔드와 **비동기 통신**을 통해 **실시간 데이터 처리**를 수행합니다.
+> 이 프로젝트는 **Java Servlet과 MySql, Oracle DB**를 기반으로 구축된 **오늘의 할 일을 체크**하는 할 일 관리 API 서버입니다. **RESTful** 설계 원칙을 준수하며, **리액트** 기반 프론트엔드와 **비동기 통신**을 통해 **실시간 데이터 처리**를 수행합니다.
 
 > **Today's Work** 프로젝트는 컴퓨터를 사용하다 보면 메모장이나 스티커 메모, 혹은 오프라인 메모지, 수첩 등에 정리하던 오늘의 할 일을 조금 더 편하게 작업하기 위해 만든 **개인 프로젝트**입니다. 스트레스가 많이 쌓일 수 밖에 없는 현대에서 스트레스를 성취감을 통해 작게나마 완화하기 위해 작업하였습니다. **하루 일과 시작 전**, 오늘의 할 일 리스트를 작성하고, 하나씩 체크해가며 지워가면서 작은 성취감을 쌓아 자존감을 올려 현대사회에 이바지 되었으면 하는 마음입니다.
 - **Period**: 2026.04.24 ~ 2026.05.01(약 일주일)
