@@ -61,5 +61,6 @@
 - **Period**: 2026.04.24 ~ 2026.05.01(약 일주일)
 - **Link**: https://github.com/Somallcool/todo-backend
 - **Link**: https://github.com/Somallcool/todo-frontend
+- **AWS**: http://15.165.161.157/
 
 ---
